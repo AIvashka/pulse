@@ -1,0 +1,39 @@
+{
+  "levels": [
+    {
+      "base_asset": "BTC",
+      "quote_asset": "USD",
+      "quantity": 1.0
+    },
+    {
+      "base_asset": "BTC",
+      "quote_asset": "USD",
+      "quantity": 5
+    },
+    {
+      "base_asset": "BTC",
+      "quote_asset": "USD",
+      "quantity": 10
+    },
+    {
+      "base_asset": "ETH",
+      "quote_asset": "USD",
+      "quantity": 10.0
+    },
+    {
+      "base_asset": "ETH",
+      "quote_asset": "USD",
+      "quantity": 100
+    },
+    {
+      "base_asset": "ETH",
+      "quote_asset": "USD",
+      "quantity": 15
+    },
+    {
+      "base_asset": "LTC",
+      "quote_asset": "USD",
+      "quantity": 20.0
+    }
+  ]
+}
